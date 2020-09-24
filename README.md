@@ -63,9 +63,9 @@ It is built with [`json-server`](https://github.com/typicode/json-server). It ha
 
 Please do not make changes to the API or the random seed.
 
-## How we will asses your work
+## How we will assess your work
 
-You should clone this repository and when you're ready to share your work push it to private repository and invite "carbonci" as a collaborator so we can check it out.
+You should clone this repository and when you're ready to share your work push it to private repository and our recruitment team will let you know the username to add as a collaborator so we can check it out.
 
 We will run the following commands
 
